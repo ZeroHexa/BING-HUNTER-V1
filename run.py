@@ -126,3 +126,4 @@ if lucifer =='3':
             c += 1
             print "\033[92m[IP RANGE]: \033[91m" + str(louis) + str(c) + '.' + str(i)
             open('COVID-19/From-Range.txt', 'a').write(str(louis) + str(c) + '.' + str(i) + '\n')
+############# Owner TN #########
